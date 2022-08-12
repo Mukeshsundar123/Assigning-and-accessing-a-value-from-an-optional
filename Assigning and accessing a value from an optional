@@ -1,0 +1,3 @@
+let someValue:Int? = 5
+print(someValue)
+print(someValue!)
